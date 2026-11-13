@@ -20,3 +20,7 @@ BATCH_SIZE = 20          # avaliações enviadas por pedido à API
 PAUSA_ENTRE_LOTES = 5    # segundos de espera entre pedidos (limite do plano gratuito)
 MAX_TENTATIVAS = 5       # tentativas por lote quando a API falha
 LIMITE = None              # None = processa tudo; um número = processa só essa quantidade (teste)
+
+# Avaliação (Etapa 4)
+MANUAL_XLSX = ROOT / "data" / "processed" / "manual_labels.xlsx"
+N_ROTULOS = 100  # avaliações rotuladas à mão (20 de cada nota)
