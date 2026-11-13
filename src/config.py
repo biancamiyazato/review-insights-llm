@@ -24,3 +24,4 @@ LIMITE = None              # None = processa tudo; um número = processa só ess
 # Avaliação (Etapa 4)
 MANUAL_XLSX = ROOT / "data" / "processed" / "manual_labels.xlsx"
 N_ROTULOS = 100  # avaliações rotuladas à mão (20 de cada nota)
+RESULTS_DIR = ROOT / "results"

@@ -1,0 +1,14 @@
+review_id,categoria_manual,review_score,review_comment_message,categoria,resumo
+3c4b177cfb3b2debc8b7cd4a2eb2b752,atendimento,3,"Produto chegou, mas tinha pouca especificação, nao vai me atender, preciso devolver",qualidade_do_produto,Produto com poucas especificações e não atende ao uso pretendido.
+83963224a4ebff3af10c5f9d094cd3e6,produto_danificado,2,Comprei para adaptar um aspirador de pó veicular 12v em uma tomada elétrica 110v mas o aspirador não funciona.,qualidade_do_produto,O produto não funcionou para a finalidade desejada.
+5e728b72bbe8e793ad1c12e93a9fe9aa,outro,2,péssima entrega,atraso,O cliente avaliou a entrega como péssima.
+734fd44778c4bb74f5072a9aa9495c3b,produto_errado_ou_incompleto,2,"O anúncio diz que o produto tem 6cm de altura, e as cerdas tem 4cm. Mas não é verdade. O que recebi tem menos de 4cm de altura.",qualidade_do_produto,O produto recebido não condiz com as especificações do anúncio.
+149d98f0242d4ea8ce0c3a3fa704c1d1,elogio,1,"Ficou pequeno para meu sofá, mas acredito que fui eu quem não soube medir.😔 Não sei se foi entregueno prazo correto.",outro,"Produto não serviu, possivelmente por erro de medição do cliente."
+f2cd381d6c0e93febd8ee61a74f246f1,elogio,5,"Recomendamos NEGOCIAR com esta Empresa ""targaryen""",atendimento,Sugestão de negociação com a empresa.
+ebc04b1e186dd7dbd617fc6d8e35b977,produto_danificado,1,"Não consigo contato com o 0800, enviei mensagem comunicando mas não me responderam. Produto com defeito",atendimento,Dificuldade de contato com o suporte para resolver problema de produto com defeito.
+4d96b1512675b823c602fe8c9dd19016,produto_errado_ou_incompleto,5,Senti falta de manual sobre o manuseio dos da bobinha com dois bicos e como esvaziar. Quanto ao produto fiquei satisfeita.,outro,"Produto satisfatório, mas faltou manual de instruções."
+3ee8556f8cd3dd292d0ca2e9711c99f0,atendimento,2,"Rastreio falho,produto ficou parado na postagem.",atraso,Problemas com o rastreio e atraso na postagem.
+c246fb910672579fd2ba2ca016032c1f,nao_entregue,1,PRODUTO NÃO ENTREGUE COM MUITO ATRASO E SEM PREVISÃO!!!!! PRECISO DE UM RETORNO COM URGENCIA.,atraso,Atraso excessivo na entrega e falta de informações.
+f1f9860e77fbdbd7cfcfd9a94e0cf2ef,atraso,1,"Atendimento horrível, fiquei esperando o produto por mais de um mês, não recomendo pra ninguém",atendimento,Atendimento ruim e atraso excessivo na entrega.
+6c356558211aa36fd9cac0e35794f375,qualidade_do_produto,2,Não sei quem se equivocou ou se a informação foi omissa na compra. O produto entregue foi da cor marrom e eu julgava ser preto.,produto_errado_ou_incompleto,Produto entregue em cor diferente da esperada.
+689523b86c7b3b2522f3ab33f5467936,produto_danificado,2,"Produto chegou rápido, mas me parece que estava mal guardado por está com manchas e sujo. (me parece que estava no estoque faz tempo).",qualidade_do_produto,"Entrega rápida, mas o produto chegou sujo e com aspecto de velho."
