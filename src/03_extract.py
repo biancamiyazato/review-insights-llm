@@ -43,6 +43,11 @@ def analisar_lote(client, lote):
                 config=CONFIG_GERACAO,
             )
             if resposta.parsed is not None:
+                uso = resposta.usage_metadata
+                print(
+                    f"  tokens: entrada={uso.prompt_token_count}, "
+                    f"saída={uso.candidates_token_count}, total={uso.total_token_count}"
+                )
                 return resposta.parsed
             print(f"  resposta fora do formato (tentativa {tentativa})")
         except errors.APIError as erro:
