@@ -1,0 +1,501 @@
+review_id,sentimento,categoria,resumo,modelo
+fc26a71c12f9a4c6b9b22a1cbe5a242e,positivo,elogio,Cliente muito satisfeito com a compra.,gemini-3.1-flash-lite
+12a5d9a66bf49847517d9992ea82cb1a,negativo,produto_errado_ou_incompleto,Recebeu um produto diferente do que foi comprado.,gemini-3.1-flash-lite
+ea7cc146a28faa46d3015352dddd074b,negativo,qualidade_do_produto,O produto recebido não condiz com as fotos do anúncio.,gemini-3.1-flash-lite
+4190d698f205d380199c4b1191393550,negativo,produto_errado_ou_incompleto,Enviaram a especificação errada do produto solicitado.,gemini-3.1-flash-lite
+e7c06f0c7dd0fbfa56a8804503d44b1c,negativo,qualidade_do_produto,"Insatisfação com o material do produto, que é plástico e não tecido.",gemini-3.1-flash-lite
+8625f35712c54f5b27e7eb76535b1089,positivo,elogio,Produto entregue corretamente e funcionando bem.,gemini-3.1-flash-lite
+6b07bef8d4a0e4c7cb6e76adb343e370,positivo,elogio,Entrega rápida e produto em perfeitas condições.,gemini-3.1-flash-lite
+32415bbf6e341d5d517080a796f79b5c,negativo,produto_danificado,Produto recebido com defeito e aguardando troca.,gemini-3.1-flash-lite
+6a097d332c73133f95dc0f13be8c91f5,negativo,nao_entregue,Produto não entregue e falta de retorno da empresa.,gemini-3.1-flash-lite
+9cef092d8f5931dce2dd720c14ce976a,positivo,elogio,Entrega realizada antes do prazo previsto.,gemini-3.1-flash-lite
+765e77727f9e2f992854535a9679952b,negativo,atraso,Demora excessiva no envio e atraso na entrega.,gemini-3.1-flash-lite
+8bbdf91a176b4c6910f4b4999fb13580,negativo,atendimento,Sistema de rastreio ineficiente e com informações vagas.,gemini-3.1-flash-lite
+5ab7c6d2ec9a59489176e9541a0b02d5,neutro,qualidade_do_produto,"Entrega rápida, mas faltou manual e a qualidade da imagem é baixa.",gemini-3.1-flash-lite
+814e7dc197d17f81c69dbfb43dd50cb2,neutro,atendimento,Produto devolvido e aguardando estorno do pagamento.,gemini-3.1-flash-lite
+09d88864a583715c394c11b37b56f482,positivo,elogio,Produto parece ser de boa qualidade.,gemini-3.1-flash-lite
+94ab1c464245e8c1d325d193ea12f0a2,negativo,outro,Insatisfação com o valor do frete cobrado.,gemini-3.1-flash-lite
+f2cd381d6c0e93febd8ee61a74f246f1,neutro,atendimento,Sugestão de negociação com a empresa.,gemini-3.1-flash-lite
+149d98f0242d4ea8ce0c3a3fa704c1d1,neutro,outro,"Produto não serviu, possivelmente por erro de medição do cliente.",gemini-3.1-flash-lite
+8b307bfeed682467d828ba8b2dabfa66,positivo,elogio,Produto excelente e entrega antecipada.,gemini-3.1-flash-lite
+246d915fc75a01ee4bbab935393a632f,neutro,produto_errado_ou_incompleto,"Produto bom, mas um acessório veio incorreto.",gemini-3.1-flash-lite
+edd86e0af4dc62b340c60d846643cbf9,positivo,elogio,Cadeira entregue no prazo e conforme a descrição.,gemini-3.1-flash-lite
+9e80295eb9ee5f07b088a5286cc94b96,positivo,elogio,"Produto excelente, recomendo.",gemini-3.1-flash-lite
+ed5d7e4fc1dfed6840211ba7c03d8ef6,neutro,qualidade_do_produto,Produto menor do que o esperado devido à falta de clareza nas medidas.,gemini-3.1-flash-lite
+bed29be70ab9fc4e07b24853a9a2a753,negativo,produto_errado_ou_incompleto,O produto foi entregue com a cor errada.,gemini-3.1-flash-lite
+b76eca59d904c0c59b377c412194e9e1,negativo,produto_errado_ou_incompleto,Demora na entrega e o produto chegou errado.,gemini-3.1-flash-lite
+340577af2776b40445129760dbe0a863,positivo,elogio,O produto é muito bom.,gemini-3.1-flash-lite
+e81b948861254a22f1ca7a9e338f3d64,positivo,elogio,"Produto entregue corretamente, recomendo a loja.",gemini-3.1-flash-lite
+d0a9eb1083da4795c8a39226fb8ce81b,negativo,produto_errado_ou_incompleto,Material diferente do esperado e cor errada.,gemini-3.1-flash-lite
+64180c2c7916ed488bcb592f0f4b4921,negativo,produto_errado_ou_incompleto,Produto faltando na entrega.,gemini-3.1-flash-lite
+5619fc1d134148960cad1a7f5aa7585a,positivo,elogio,Entrega rápida e produto conforme a descrição.,gemini-3.1-flash-lite
+148b1dcacd9f162238896f0c37c6210d,positivo,elogio,Produto de qualidade e entrega rápida.,gemini-3.1-flash-lite
+27653a377d5279da3480d0b79db976e5,positivo,elogio,Eficiência na entrega.,gemini-3.1-flash-lite
+2a8c0048177758d873c0f5f43f757192,positivo,elogio,Loja recomendada.,gemini-3.1-flash-lite
+a2a57bf2fc42d185910f9881502faa18,negativo,produto_errado_ou_incompleto,Pedido incompleto e falta de suporte da empresa.,gemini-3.1-flash-lite
+49b3a0f3ee5cab9c2a57b37c2e0c67b3,negativo,produto_errado_ou_incompleto,Desorganização e envio de produto errado.,gemini-3.1-flash-lite
+abe34daf93e11da011eba48bcfc32b48,positivo,elogio,Entrega rápida.,gemini-3.1-flash-lite
+5858be766a592ec7bebad665ca6043da,positivo,elogio,Ótimo produto e entrega antecipada.,gemini-3.1-flash-lite
+dc9cf6e37f7ec5b682778f710bb94f50,negativo,qualidade_do_produto,"Produto com defeito de funcionamento, desejo devolver.",gemini-3.1-flash-lite
+f2c8fb336b7fe82a52576276730fae3f,neutro,qualidade_do_produto,Divergência nas medidas do produto.,gemini-3.1-flash-lite
+70affa2200677dcd494847ffc23bc0df,negativo,atraso,Atraso na entrega e falta de suporte para reembolso.,gemini-3.1-flash-lite
+fa2749eca2cf108dfa29e80a2172cb78,positivo,elogio,O produto foi entregue antes do prazo.,gemini-3.1-flash-lite
+a0c434e353e06eb758d35f81ce18be69,negativo,nao_entregue,Produto não entregue e dificuldade de contato com o SAC.,gemini-3.1-flash-lite
+3115aef08b3444a186dbf9ce2ba35832,positivo,elogio,O cliente gostou muito do produto.,gemini-3.1-flash-lite
+39b194c774dbefda60f7de993e41c9be,negativo,produto_danificado,O produto chegou quebrado.,gemini-3.1-flash-lite
+db6e80117789aa15d03c3406c7429845,negativo,atraso,Houve demora na entrega do produto.,gemini-3.1-flash-lite
+cd206b8a1fb1b17c4d91b163ad11259c,negativo,atraso,O prazo de entrega foi excedido.,gemini-3.1-flash-lite
+05370e0777786966592564cfe08ccad6,negativo,nao_entregue,O produto ainda não foi recebido.,gemini-3.1-flash-lite
+6b33effc78d078720eb68ee76a393272,negativo,atendimento,Dificuldade com o processo de troca e atendimento ruim.,gemini-3.1-flash-lite
+59393cb39d71f8f0ff348fe315e695b4,positivo,elogio,Entrega rápida antes da data prevista.,gemini-3.1-flash-lite
+f69452c80acfeaf36b3fbca2261e9d86,neutro,qualidade_do_produto,"O produto tem cheiro forte, mas o preço compensa.",gemini-3.1-flash-lite
+f9c985fc18af85b021ff330723505773,negativo,nao_entregue,O cliente questiona o paradeiro do pedido.,gemini-3.1-flash-lite
+1389fd3d86ebbb6775fa68f7526c5b4b,negativo,produto_errado_ou_incompleto,"O pedido foi entregue incompleto, faltando itens.",gemini-3.1-flash-lite
+92053a84bf8bd2e9c43892f5ea98439e,negativo,nao_entregue,O produto não foi entregue e o cliente solicita o envio.,gemini-3.1-flash-lite
+bcdaab8d590e861c7787446759726eba,positivo,elogio,Entrega no prazo e produto bem embalado.,gemini-3.1-flash-lite
+b10a077c65ccd8cab33e94a06beb13fe,negativo,produto_errado_ou_incompleto,O pedido chegou faltando cadeiras.,gemini-3.1-flash-lite
+dfaf111b639c856df1395f627c718c35,negativo,nao_entregue,Pedido não entregue após um mês de espera.,gemini-3.1-flash-lite
+18215615f60e6771c00faaaa1ade4cea,negativo,atraso,A entrega está demorando muito.,gemini-3.1-flash-lite
+b4b327ece190bdfda98e3a3e3417e597,negativo,produto_errado_ou_incompleto,O cliente pagou por duas canetas e recebeu apenas uma.,gemini-3.1-flash-lite
+fd43bd1963e5b75f95c7cfdcf351839d,negativo,qualidade_do_produto,A tinta do produto está descascando.,gemini-3.1-flash-lite
+a04625605c0ed62e208637697536eff9,negativo,atraso,O produto está com a entrega atrasada.,gemini-3.1-flash-lite
+6431101fb3dd532f6255990227065c5d,positivo,elogio,Loja transparente e entrega rápida antes do prazo.,gemini-3.1-flash-lite
+cef75bd9c68c4985cf1ab56e370f88e1,positivo,elogio,O produto é muito bonito.,gemini-3.1-flash-lite
+2826f844004c23ac115446c00b728c67,neutro,atraso,"Loja recomendada, mas houve atraso na entrega pelos correios.",gemini-3.1-flash-lite
+dfc08f4e12ea5e278b022428f07a8881,positivo,elogio,Entrega rápida e produto com bom acabamento inicial.,gemini-3.1-flash-lite
+5939b024044f3f33e6598400d9e93b2b,negativo,nao_entregue,O produto ainda não foi recebido.,gemini-3.1-flash-lite
+86cb7f120db39b8bdf6e04a260e6a810,negativo,nao_entregue,Pedido não entregue e falta de suporte da loja.,gemini-3.1-flash-lite
+0f952ad4dfb88a77f12211a4038c70dd,positivo,elogio,Entrega no prazo e bom produto.,gemini-3.1-flash-lite
+1bd777419b840aae94d9115bd6ef9ef4,negativo,produto_errado_ou_incompleto,Comprei dois itens e recebi apenas um.,gemini-3.1-flash-lite
+79c4ca95d687376cdc5d101ec9862d43,negativo,nao_entregue,Os produtos não foram recebidos.,gemini-3.1-flash-lite
+59b396ef2747faa40dd6a6e978e9475d,negativo,produto_danificado,"Produto chegou no prazo, mas não funciona.",gemini-3.1-flash-lite
+a26c736dd1f0776fbcbb616f8b637ff5,positivo,elogio,A loja está de parabéns.,gemini-3.1-flash-lite
+c4a0f8cf0b5be950c339c5858e7676eb,neutro,outro,"Recomendo a loja, mas o frete é caro.",gemini-3.1-flash-lite
+de292a99e33f4dd61cd09fa514e079f9,negativo,produto_errado_ou_incompleto,O produto recebido é diferente do anunciado.,gemini-3.1-flash-lite
+54d42c6a657559f83209e08ec2525e16,positivo,elogio,A compra foi satisfatória até o momento.,gemini-3.1-flash-lite
+a4a4b14d711edd678b3be6362a97a794,positivo,elogio,Produto bom e útil.,gemini-3.1-flash-lite
+664649b18d1f9b89640c816b7949468f,positivo,elogio,Produto muito bom e entrega rápida.,gemini-3.1-flash-lite
+d51193513fe3b8004dcddd3def3ef50c,negativo,qualidade_do_produto,Os travesseiros vieram com costura torta.,gemini-3.1-flash-lite
+96c1be5f9a0199ff03a9dea82024c692,negativo,produto_errado_ou_incompleto,Recebi apenas um dos dois itens comprados.,gemini-3.1-flash-lite
+93674f2527a32514ceee7884bc273436,neutro,outro,"Ótimo produto e entrega rápida, mas o frete é caro.",gemini-3.1-flash-lite
+09ecd255a0320754c3604521fbd2e36d,positivo,elogio,Adorei o produto e a entrega foi rápida.,gemini-3.1-flash-lite
+f27ec67f93ba3a5915118f7f12cde16d,neutro,produto_danificado,"O produto chegou rápido, mas apresenta defeito de fabricação ou transporte.",gemini-3.1-flash-lite
+24d29d7003241863ee30d77750b189a2,negativo,nao_entregue,O cliente relata que o produto não foi entregue.,gemini-3.1-flash-lite
+cba941af24fda570a92e9182bf90fa1c,positivo,elogio,Produto de qualidade e entrega rápida.,gemini-3.1-flash-lite
+0eeb0b2358ab272235d88427f1d5d290,negativo,atraso,O produto está com um mês de atraso na entrega.,gemini-3.1-flash-lite
+08c574e4d62a6bf6eaf33ed9c9d2d074,negativo,produto_errado_ou_incompleto,"O produto chegou incompleto, faltando os parafusos.",gemini-3.1-flash-lite
+134fea88f2362321d672643fb35de958,negativo,nao_entregue,O produto não foi entregue e a justificativa de ausência é contestada pelo cliente.,gemini-3.1-flash-lite
+5e94cdd99c764328967c2c658108e89c,negativo,nao_entregue,O produto não foi entregue e não houve comunicação sobre o status.,gemini-3.1-flash-lite
+c67088e54f55eee168bccd264ca98510,positivo,elogio,Vendedor excelente e entrega rápida.,gemini-3.1-flash-lite
+858fab56a905d392dbefe077112311d7,positivo,elogio,Produto bonito e entregue antes do prazo.,gemini-3.1-flash-lite
+e90351a2e646910880be93f44eaf7cdc,neutro,qualidade_do_produto,"Entrega no prazo, mas a qualidade da película é ruim.",gemini-3.1-flash-lite
+bdf210ef3021cf63bc59fd994006253c,positivo,elogio,"Produto entregue antes do prazo, recomendado.",gemini-3.1-flash-lite
+ec250d197e657aab325684d527f53cfe,positivo,elogio,Entrega realizada antes do prazo.,gemini-3.1-flash-lite
+1e06641c4b64aa8851d6b0abec19251b,positivo,elogio,Produto bom e recomendado.,gemini-3.1-flash-lite
+c8193f1bbf35f728ce18fd3d72f3be6f,positivo,elogio,Entrega no prazo e cliente satisfeito.,gemini-3.1-flash-lite
+d1cb79ed4ac050fbc074f46c39bc7be8,negativo,produto_danificado,O produto chegou com a tampa quebrada.,gemini-3.1-flash-lite
+e970e87d6a9f60d97ffc81b54417ac12,neutro,qualidade_do_produto,"Produto bom, mas veio sem lacre e proteção adequada.",gemini-3.1-flash-lite
+4a15380556c3c4a8fb8661bac03ad27d,negativo,atendimento,Cliente busca informações sobre o prazo de entrega ou cancelamento.,gemini-3.1-flash-lite
+c23eaa7542ac5e4a96c0c15123a8cb90,negativo,nao_entregue,O produto não foi entregue e não há informações.,gemini-3.1-flash-lite
+3476575836d78c245ab6b54e8d23a17b,positivo,elogio,Cliente satisfeito com a compra.,gemini-3.1-flash-lite
+6b1b4ee77c1d54aefd56555bec98aa0b,negativo,produto_danificado,Produto com defeito e cliente insatisfeito.,gemini-3.1-flash-lite
+9b2bd708569ab4c30c75d1aa21dbf246,neutro,qualidade_do_produto,"O produto chegou no prazo, mas a ausência de logotipo gera dúvidas sobre a autenticidade.",gemini-3.1-flash-lite
+b415039bb925eea89722e0acb17b4657,positivo,elogio,Cliente satisfeito com a compra.,gemini-3.1-flash-lite
+cf681f3ac6da6785acb3498b03bf41d0,negativo,atraso,O produto ainda não foi entregue e apresenta atraso.,gemini-3.1-flash-lite
+deda00226f77610acd144d3168628ef6,neutro,produto_errado_ou_incompleto,"Recebeu um modelo diferente do pedido, mas gostou do item enviado.",gemini-3.1-flash-lite
+cb943331d11530808841d44112d31893,negativo,produto_errado_ou_incompleto,O produto estava faltando no pedido.,gemini-3.1-flash-lite
+8e954c79dc2fc426d5f17035e9bb22dd,neutro,nao_entregue,Cliente aguardando a entrega do produto.,gemini-3.1-flash-lite
+ff473614c924ed0aa20f2143b560ab01,positivo,elogio,O produto é excelente.,gemini-3.1-flash-lite
+95c58785de9c834777e234764d3a06f8,negativo,produto_errado_ou_incompleto,"O produto chegou, mas faltaram o certificado de garantia e o manual.",gemini-3.1-flash-lite
+3aa12a842315c38fe80754cb16e30bff,neutro,qualidade_do_produto,"O produto não era o esperado, mas atendeu à necessidade.",gemini-3.1-flash-lite
+33dc82b84f6ceddc425101a9ef995141,negativo,nao_entregue,O produto não foi entregue e o cliente solicita providências.,gemini-3.1-flash-lite
+8b4b528ccf71755098f7a2fb4afa1a30,negativo,produto_errado_ou_incompleto,Recebeu um modelo de boneco diferente do que foi comprado.,gemini-3.1-flash-lite
+e811be6458374919dc05026ab403a4df,positivo,elogio,Entrega pontual e produtos de boa qualidade.,gemini-3.1-flash-lite
+49d7cb7036524859d51e77463e9d4f9c,negativo,outro,Cliente insatisfeito com a venda realizada.,gemini-3.1-flash-lite
+20a2467d26a288c8389370a74be800a2,negativo,produto_errado_ou_incompleto,Parte do pedido não foi entregue.,gemini-3.1-flash-lite
+ea7bb065e03e16c0ee0f4b9be794e787,positivo,elogio,Produto surpreendeu positivamente pela qualidade.,gemini-3.1-flash-lite
+a561e289383802bf0059e9dd5dec8d21,neutro,qualidade_do_produto,"A colcha é bonita, mas o material é muito fino.",gemini-3.1-flash-lite
+bcd58c75390296515e530e9da07c23df,negativo,produto_errado_ou_incompleto,O carregador foi enviado sem o cabo de tomada.,gemini-3.1-flash-lite
+3c4b177cfb3b2debc8b7cd4a2eb2b752,negativo,qualidade_do_produto,Produto com poucas especificações e não atende ao uso pretendido.,gemini-3.1-flash-lite
+32dc5fcb61499924e36ff592a3465e5a,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+c246fb910672579fd2ba2ca016032c1f,negativo,atraso,Atraso excessivo na entrega e falta de informações.,gemini-3.1-flash-lite
+8abf5b38477366893695372ab160f0a6,positivo,elogio,O produto foi entregue dentro do prazo.,gemini-3.1-flash-lite
+2096cbc5d9109b94efccc8fcde194bc4,negativo,atraso,A entrega demorou muito.,gemini-3.1-flash-lite
+27a54571b6e3cb2651b1338568f97d62,positivo,elogio,Produto de boa qualidade e fácil montagem.,gemini-3.1-flash-lite
+39511a8128d337def36dba8e476325d7,negativo,produto_errado_ou_incompleto,O produto recebido é diferente do anunciado.,gemini-3.1-flash-lite
+f02112b16bfb454f23f9eafe200b1340,negativo,atraso,O prazo de entrega foi muito longo.,gemini-3.1-flash-lite
+eb5637aea3623f9186abce3d427148b8,negativo,qualidade_do_produto,O produto possui qualidade ruim.,gemini-3.1-flash-lite
+5706d34928159f70fe921e513ff04381,positivo,elogio,A compra ocorreu sem problemas.,gemini-3.1-flash-lite
+e6aec979f229602453f04345e48c8bc0,positivo,elogio,O produto apresenta bom custo-benefício.,gemini-3.1-flash-lite
+e417599cf87a7539535a72bc29ff87ba,neutro,outro,O produto está aguardando retirada nos correios.,gemini-3.1-flash-lite
+affd8f010bc22b50ca04ac7ec48b91c0,neutro,outro,"Cliente satisfeita, mas preferia entrega em domicílio.",gemini-3.1-flash-lite
+cf9edb53c55dc009813e65d78b2f0d2b,negativo,produto_errado_ou_incompleto,"O produto foi enviado incompleto, faltando um dos lados do par.",gemini-3.1-flash-lite
+417ed14c808f80f32ae9694d3841ae82,negativo,atraso,O pedido está atrasado e ainda não foi entregue.,gemini-3.1-flash-lite
+a370856e24cebd074c80f01d80f3c042,positivo,elogio,O serviço foi eficiente.,gemini-3.1-flash-lite
+7ec9f5da80457bd8981e0638573a49fe,negativo,atendimento,Dúvida sobre como proceder após o cancelamento do pedido.,gemini-3.1-flash-lite
+e8d8f824f2133fd07e2a6c5e8e7a5edd,negativo,produto_errado_ou_incompleto,"O pedido veio incompleto, faltando itens.",gemini-3.1-flash-lite
+2733716358ddf04da0df237ba62445f5,neutro,outro,O cliente precisou buscar o produto no depósito dos correios.,gemini-3.1-flash-lite
+ee1aa0d8606aacbfc7d96428a2232de7,negativo,nao_entregue,Parte do pedido ainda não foi entregue.,gemini-3.1-flash-lite
+779adfa09e476714bcc18fbf0ecb7ef3,negativo,produto_errado_ou_incompleto,"O pedido consta como entregue, mas está incompleto.",gemini-3.1-flash-lite
+d6e63615fc8f13a124b540d8e154a492,negativo,atendimento,Insatisfação geral com o serviço prestado.,gemini-3.1-flash-lite
+56aa9b39924c7408d13861e714f0fc94,neutro,atraso,Aguardando a entrega do produto com paciência.,gemini-3.1-flash-lite
+5885bb9a2bb64050c8340f23b33bc90f,negativo,outro,O cliente reclama que as mercadorias não foram entregues em um único envio.,gemini-3.1-flash-lite
+8be67a94946385a09e2eecd37680f9f8,negativo,produto_errado_ou_incompleto,Recebeu produto errado e teve dificuldades com a nota fiscal para devolução.,gemini-3.1-flash-lite
+36d41ed0e544741fc46787d062871ff0,positivo,elogio,Produto e prazo de entrega perfeitos.,gemini-3.1-flash-lite
+861175a5e38bebf3688f03a155d6641b,negativo,produto_errado_ou_incompleto,Recebeu tapetes higiênicos com tamanho diferente do solicitado.,gemini-3.1-flash-lite
+d78e13b1c1ccd14a815a76841d641b8d,neutro,outro,Sugestão de criação de preço mínimo para frete grátis.,gemini-3.1-flash-lite
+20ec7b89a0b5f2b84e42f9c7278e5882,negativo,atendimento,Dificuldade em realizar a troca de um produto comprado erroneamente pelo site.,gemini-3.1-flash-lite
+bc7c7934ff494bfdf95d53e6c263fd78,negativo,nao_entregue,"Pedido não entregue e sem nota fiscal, resultando em cancelamento.",gemini-3.1-flash-lite
+0af214b18d6b2407e99a4bf79304c245,negativo,produto_danificado,Produto com defeito no controle e solicitação de devolução em andamento.,gemini-3.1-flash-lite
+45db266493662596c3ef869178bdc298,negativo,produto_danificado,Embalagem danificada e frasco de produto trincado com vazamento.,gemini-3.1-flash-lite
+1cff169938927ffb0a12e47398ca63f5,positivo,elogio,Produtos entregues corretamente e antes do prazo.,gemini-3.1-flash-lite
+ebc04b1e186dd7dbd617fc6d8e35b977,negativo,atendimento,Dificuldade de contato com o suporte para resolver problema de produto com defeito.,gemini-3.1-flash-lite
+b3990df973d58fe088fd3c24923263d8,negativo,produto_errado_ou_incompleto,"O pedido chegou incompleto, faltando os mosquiteiros.",gemini-3.1-flash-lite
+2ffc2ade450891ee599e068c9a95314b,negativo,nao_entregue,O cliente não recebeu a mercadoria.,gemini-3.1-flash-lite
+95d27c1599269d6185b2df8523af1ee8,negativo,nao_entregue,Atraso na entrega e recebimento de produto incorreto.,gemini-3.1-flash-lite
+577b1a558404719c529ea0d19b545056,positivo,elogio,Produto de qualidade e entrega rápida.,gemini-3.1-flash-lite
+4aa134d0442be7af50140912163a759d,positivo,elogio,Avaliação positiva sobre o produto.,gemini-3.1-flash-lite
+48321f2b40569378083d5dd4ccb18539,negativo,qualidade_do_produto,"Produto de má qualidade, com avarias e problemas na entrega.",gemini-3.1-flash-lite
+4ca57be78a2cfd23b8b341521800054f,negativo,atraso,A entrega está atrasada.,gemini-3.1-flash-lite
+cd4ff6e02e144ed3657259cc64951166,positivo,elogio,Elogio à eficácia do serviço.,gemini-3.1-flash-lite
+0897cac972d6802fd16947dc6fe89dd5,negativo,atendimento,Insatisfação com a falta de atenção e consideração da loja no último pedido.,gemini-3.1-flash-lite
+1a50a85e138fe3da99075e29dd71c656,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+6ff0c3b38706728bce8d7f1390fba9be,positivo,elogio,Produto atendeu às expectativas.,gemini-3.1-flash-lite
+072fd300ee52d7efcfb3388145590f3a,positivo,elogio,Entrega realizada dentro do prazo.,gemini-3.1-flash-lite
+c3e3262d732c0a6b4c3d01f4538a95bf,negativo,produto_errado_ou_incompleto,Recebi a quantidade incorreta e não recebi retorno da loja.,gemini-3.1-flash-lite
+2f84a5cd1881f48dc155a7d0a5d10261,positivo,elogio,Produto fácil de montar.,gemini-3.1-flash-lite
+1299de51d55c2c4e37ca6bc17a23a5f4,positivo,elogio,Entrega rápida e eficiente.,gemini-3.1-flash-lite
+a1c89ee75aad49c3e5633106fe8b8e82,negativo,nao_entregue,Produto não entregue após três meses de espera.,gemini-3.1-flash-lite
+5af2c6f977f27d023c564a72ad5f6e1f,negativo,produto_errado_ou_incompleto,Recebi um produto totalmente diferente do que foi comprado.,gemini-3.1-flash-lite
+24cf3c6f44cdf65ecbf841649d27dd59,positivo,elogio,Loja séria que cumpre os prazos.,gemini-3.1-flash-lite
+3ee8556f8cd3dd292d0ca2e9711c99f0,negativo,atraso,Problemas com o rastreio e atraso na postagem.,gemini-3.1-flash-lite
+7fc63200f12eebb5f387856afdd63db8,negativo,nao_entregue,"Produto não recebido, cliente solicita solução urgente.",gemini-3.1-flash-lite
+eafc9d87c63cb85f075a34ac48dc2458,negativo,qualidade_do_produto,Produto com validade próxima sem aviso prévio.,gemini-3.1-flash-lite
+a54cd20e0cc9483c2550bd75f79912aa,positivo,elogio,Recomendo a loja.,gemini-3.1-flash-lite
+80e989186527f2df6d26c7aeba39250f,negativo,produto_danificado,Produto chegou com defeito de fabricação.,gemini-3.1-flash-lite
+a6a0718d6a4a6aad479393c646ebc588,negativo,produto_errado_ou_incompleto,Recebi apenas parte do pedido e a entrega do restante está atrasada.,gemini-3.1-flash-lite
+38af3151c827312103c69412538600ad,negativo,atraso,A entrega demorou mais do que o esperado.,gemini-3.1-flash-lite
+c1fc0a050068751d49aad55d0ab07bd6,negativo,produto_errado_ou_incompleto,Recebi apenas uma das duas unidades compradas.,gemini-3.1-flash-lite
+689523b86c7b3b2522f3ab33f5467936,neutro,qualidade_do_produto,"Entrega rápida, mas o produto chegou sujo e com aspecto de velho.",gemini-3.1-flash-lite
+ee9b99e11ec627e17202dd2d98ce28f7,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+38ff08b57cbc858f7cbdc8dcaf4cb623,positivo,elogio,Experiência de compra positiva.,gemini-3.1-flash-lite
+3d62a77ff6a9bede34c109f4fa297457,negativo,produto_errado_ou_incompleto,"O cliente comprou dois rolos de cabo, mas recebeu apenas um.",gemini-3.1-flash-lite
+eec1e59f02f8e1ae066a519420d58f46,negativo,produto_errado_ou_incompleto,"Pedido marcado como entregue, mas uma das luminárias não foi recebida.",gemini-3.1-flash-lite
+fd94aff0d092a171174a15429f2b1d43,positivo,elogio,O cliente elogiou a qualidade da embalagem.,gemini-3.1-flash-lite
+44dbc1c5a6b00a951bf53129ee7b0d68,negativo,produto_errado_ou_incompleto,O produto recebido é diferente do que foi comprado.,gemini-3.1-flash-lite
+4e9bc73d2795d85dc2e8b7dbb99e304c,positivo,elogio,Produto conforme anunciado e entrega muito rápida.,gemini-3.1-flash-lite
+88ce13e429ce3faffb0225b64b4e5336,negativo,atendimento,A entrega foi dividida em várias partes sem aviso prévio ou rastreio.,gemini-3.1-flash-lite
+026c4eb5c65658cb56f1bd1a926b663b,positivo,elogio,Entrega realizada antes do prazo previsto.,gemini-3.1-flash-lite
+e9f0bde9a98ff79305964e9033ed8cd2,negativo,produto_danificado,O produto chegou incompleto e em más condições.,gemini-3.1-flash-lite
+4f4ae27e87e348c0418597121d2a2758,negativo,produto_errado_ou_incompleto,O pedido foi entregue de forma incompleta.,gemini-3.1-flash-lite
+a6b2bc8a2608d5fcbcd18be3bd8d1321,negativo,produto_errado_ou_incompleto,Cliente recebeu apenas uma das duas peças compradas.,gemini-3.1-flash-lite
+dcb00c2fddb48828eaf12da19e9e9741,positivo,elogio,Entrega rápida e tudo em perfeitas condições.,gemini-3.1-flash-lite
+1c032fa07fb1cdc644289c0fa263d415,positivo,elogio,Entrega no prazo e produto de boa qualidade.,gemini-3.1-flash-lite
+9aef8f26be50b60121c9d94175eb3c4c,positivo,elogio,Entrega antecipada e produto de ótima qualidade.,gemini-3.1-flash-lite
+0d18ca98c2c27d5ca5690c369a5fc640,neutro,outro,O cliente ainda não testou o produto.,gemini-3.1-flash-lite
+8cd0f06e4a864c2a478717d27f651c75,neutro,outro,O cliente recomenda a loja apesar de um ocorrido.,gemini-3.1-flash-lite
+699d654136a9ad7bb642cf4c71293f03,negativo,produto_errado_ou_incompleto,O cliente aguarda a entrega da unidade faltante.,gemini-3.1-flash-lite
+361e6c6ed45c3753d44795f7f9a7e822,negativo,atendimento,O cliente deseja cancelar a compra.,gemini-3.1-flash-lite
+ed572527a5e73f537301486af48a9fe4,negativo,atraso,O cliente reclama da demora nas entregas da loja.,gemini-3.1-flash-lite
+beb2b114f225cad5388ccdfcda153a9e,negativo,produto_errado_ou_incompleto,Comprei duas unidades e recebi apenas uma.,gemini-3.1-flash-lite
+92cc919e166923af080d48d3a121dc74,negativo,atendimento,Cobrança indevida de frete que deveria ser grátis.,gemini-3.1-flash-lite
+4d96b1512675b823c602fe8c9dd19016,neutro,outro,"Produto satisfatório, mas faltou manual de instruções.",gemini-3.1-flash-lite
+8308469d770a0e7dafe033585b78b352,negativo,nao_entregue,Cliente reclama de atraso na entrega e mau atendimento.,gemini-3.1-flash-lite
+008396ce4c9d08d5371b4cd708058b2a,negativo,qualidade_do_produto,A qualidade do produto é inferior ao esperado.,gemini-3.1-flash-lite
+87740b010df52d1f32fa553c54a7b386,negativo,qualidade_do_produto,Material e acabamento do produto não condizem com a descrição.,gemini-3.1-flash-lite
+6414fe2db14d77a9032c0a1e051b0b05,negativo,produto_errado_ou_incompleto,"Pedido incompleto, faltaram duas cadeiras.",gemini-3.1-flash-lite
+1d6efff139379b9beaa98c71e080b0f3,neutro,outro,Embalagem aberta gerou dúvida sobre a condição do produto.,gemini-3.1-flash-lite
+7b62d6e1a9c59673228c5e455b3890ae,negativo,atraso,A entrega demorou muito além do esperado.,gemini-3.1-flash-lite
+1aa594a514a38e08b1eb32ada5ba71be,negativo,produto_danificado,Produto apresentou defeito logo após o uso.,gemini-3.1-flash-lite
+fc7c223b4fd5dd72d7540c74c0b61557,positivo,elogio,Produto entregue no prazo e de boa qualidade.,gemini-3.1-flash-lite
+d05a708e72ca34c1d5193965d740abed,positivo,elogio,Entrega realizada com sucesso.,gemini-3.1-flash-lite
+18d2a7f207f20b1fadc63b0c7614f16e,positivo,elogio,Entrega muito rápida.,gemini-3.1-flash-lite
+d9964e0f60c8bf699f9f1d73ebdaf97d,negativo,atendimento,Vendedor vendeu produto sem estoque.,gemini-3.1-flash-lite
+349c28769a079bb8cb29c64e9c12965e,positivo,elogio,Produto muito bom.,gemini-3.1-flash-lite
+7d0357be02afe16ff0622748201b9f46,negativo,produto_errado_ou_incompleto,Cor do produto diferente da anunciada.,gemini-3.1-flash-lite
+ecc88ed5dc31dbcde5f0ea48f2c882dd,negativo,produto_errado_ou_incompleto,"Pedido incompleto, apenas um livro entregue.",gemini-3.1-flash-lite
+15ec964ec27a77634222a1c140cc6fc9,neutro,outro,"Entrega rápida, mas faltou líquido para teste.",gemini-3.1-flash-lite
+4d29c42810d4d8f4bbec3d435b8debbb,positivo,elogio,Loja recomendada.,gemini-3.1-flash-lite
+3c7e9141160ca87d7a8844bc40c5635e,positivo,elogio,Gostei do produto.,gemini-3.1-flash-lite
+1c672c2fe775ddfe6540dfd1b25ccd2b,neutro,produto_errado_ou_incompleto,"Produto correto, mas o brinde prometido não veio.",gemini-3.1-flash-lite
+a511b81cc259575c2dd19774f20f94b8,negativo,atraso,Entrega atrasada após várias alterações de data.,gemini-3.1-flash-lite
+472da10b174d6d282fca5b924cb544bd,positivo,elogio,O produto chegou dentro do prazo previsto.,gemini-3.1-flash-lite
+77d427beb34a26b489b34209b61bb974,neutro,qualidade_do_produto,"O produto é bom, mas o tamanho é inadequado para documentos padrão.",gemini-3.1-flash-lite
+7d7399c478ca5ef4fefb777088a8e875,negativo,produto_errado_ou_incompleto,O produto veio com quantidade inferior à anunciada.,gemini-3.1-flash-lite
+f73ad011be57d3af9090154eba962df2,negativo,qualidade_do_produto,A qualidade do produto é inferior ao que foi anunciado.,gemini-3.1-flash-lite
+22bd7627e67f9c268d16ca89d286f3f3,negativo,qualidade_do_produto,O produto recebido não condiz com a qualidade da imagem.,gemini-3.1-flash-lite
+52b42c74982653dfd947b0d61c3d5457,positivo,elogio,Cliente satisfeito com a compra.,gemini-3.1-flash-lite
+22a29ecd6483224b31daa7b356aa5842,negativo,nao_entregue,"O sistema indica entrega, mas o produto não foi recebido.",gemini-3.1-flash-lite
+dd155ba7eb526957ff8aaa70889ef501,positivo,elogio,Entrega realizada no prazo e cliente satisfeito.,gemini-3.1-flash-lite
+597312daca8539590e53e4e5bb789bd2,negativo,produto_errado_ou_incompleto,"Pedido entregue incompleto, faltando um dos itens.",gemini-3.1-flash-lite
+6ad80e6a231d76acbf99496e56e10ea9,negativo,nao_entregue,O produto não foi entregue.,gemini-3.1-flash-lite
+d4ad207d1b4f0c361edf36898d699517,negativo,produto_danificado,O produto chegou com defeito de fabricação na costura.,gemini-3.1-flash-lite
+7c88c29407e82fbac5ddc261ba59cdd3,negativo,produto_errado_ou_incompleto,"Pedido entregue incompleto, faltando itens.",gemini-3.1-flash-lite
+e34fb2eab66d10dee1573de2ab369df0,positivo,elogio,Entrega realizada antes do prazo.,gemini-3.1-flash-lite
+fac6571201b18fdf3b22db06450a8f7a,negativo,nao_entregue,O produto não foi recebido.,gemini-3.1-flash-lite
+185ddd533ae43daef9e6e905f5bd0207,negativo,produto_errado_ou_incompleto,O produto foi entregue sem a nota fiscal.,gemini-3.1-flash-lite
+77a9cef6c17c906bd6bf309a6e309537,positivo,elogio,Entrega realizada antes do prazo.,gemini-3.1-flash-lite
+35f414db10893b3e2eec09974b3ca21a,positivo,elogio,Produto de boa qualidade.,gemini-3.1-flash-lite
+9cc4987916099bc82bfbfe873869c284,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+528785db65c6445df1d15acc64599f89,negativo,atendimento,Falha no atendimento ao cliente referente ao cancelamento do pedido.,gemini-3.1-flash-lite
+083cea852e4bef40b5d4d436da1fc8ef,negativo,atraso,O produto não foi entregue no prazo prometido.,gemini-3.1-flash-lite
+a3372cc962a30fb9cce1ee23c1629707,positivo,elogio,"Compra fácil, entrega rápida e excelente comunicação.",gemini-3.1-flash-lite
+d769d6d2f03d36b3a7598cd23cf57ef8,negativo,produto_errado_ou_incompleto,Atraso na entrega e recebimento incompleto do pedido.,gemini-3.1-flash-lite
+1d6ffa46a63a9526d4caa3668359e7d6,positivo,elogio,O produto chegou antes do prazo.,gemini-3.1-flash-lite
+b5fb1dd1967827e894ed62b6f9096264,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+820087fee32ffcb6ba7745315e32f335,positivo,elogio,Produto muito bonito e aprovado.,gemini-3.1-flash-lite
+108195606e37780c4335f0725c4c7e3e,negativo,atraso,Houve atraso na entrega do pedido.,gemini-3.1-flash-lite
+371e1ee3d7ca54b51a6801076440054c,negativo,qualidade_do_produto,O perfume parece não ser original e tem baixa fixação.,gemini-3.1-flash-lite
+11d8ba559b1548ed02ffa3976a31695b,negativo,produto_danificado,O toner veio com defeito e danificou a impressora.,gemini-3.1-flash-lite
+2e236dc962faebc61a1b76ac8695b945,positivo,elogio,Produto de boa qualidade e entrega rápida.,gemini-3.1-flash-lite
+517732e5a181a6a20c94fe28ddae7cbe,negativo,qualidade_do_produto,Produto de má qualidade e insatisfatório.,gemini-3.1-flash-lite
+11ca35863e90b98a94a5a1dc489712e2,positivo,elogio,Produto funcional e entrega antecipada.,gemini-3.1-flash-lite
+30a7627e9231f316cdad9b2e7e85bb4f,neutro,qualidade_do_produto,"Material diferente do esperado, mas aceitável pelo preço.",gemini-3.1-flash-lite
+df80571bc090c3706df6b298146dffd2,positivo,elogio,Tudo funcionou perfeitamente.,gemini-3.1-flash-lite
+b356fc91f4e5e955c6b498d9535035dc,negativo,produto_errado_ou_incompleto,"Pedido incompleto, recebi apenas uma unidade.",gemini-3.1-flash-lite
+4795244d1f5ce48a127037c883008809,neutro,outro,Sugestão de melhoria no design do produto.,gemini-3.1-flash-lite
+079429a8d03e1d90169a2c900c89da79,positivo,elogio,Produto lindo e entrega muito rápida.,gemini-3.1-flash-lite
+ab125211266c7cb8542597fc230766a3,negativo,qualidade_do_produto,"Entrega rápida, mas qualidade do produto muito baixa.",gemini-3.1-flash-lite
+9ee73742033782063488efa3e5ecd739,positivo,elogio,Ótimo custo-benefício e entrega no prazo.,gemini-3.1-flash-lite
+48a82d740f73ba519ee5faa66c72bc7f,negativo,produto_errado_ou_incompleto,Recebi um modelo de HD diferente do que foi comprado.,gemini-3.1-flash-lite
+c2c9a174a07308b40c79b6bcae312d97,positivo,elogio,Produto de boa qualidade e entrega rápida.,gemini-3.1-flash-lite
+d2498419c601d6a8e583be411abc87f9,neutro,atraso,O cliente solicita uma entrega mais ágil.,gemini-3.1-flash-lite
+678325e94431e4c09b15e84376d2c1b4,negativo,qualidade_do_produto,O colchão possui qualidade ruim e preço elevado.,gemini-3.1-flash-lite
+4ef49df3a6222e8d85023c08abf1e7d5,positivo,elogio,Bom preço e prazo de entrega satisfatório.,gemini-3.1-flash-lite
+99cf4b1fe24caeedad78dd03c510e985,negativo,nao_entregue,O produto não foi entregue após dois meses de espera.,gemini-3.1-flash-lite
+d7a00bea8d8038be7947135651745263,negativo,produto_errado_ou_incompleto,O produto chegou sem o detalhe visual anunciado.,gemini-3.1-flash-lite
+6f233dbfbb701b1277c83c540bb04022,positivo,elogio,Compra realizada com sucesso.,gemini-3.1-flash-lite
+a959ae2b148b730cb1861bd04a6253f9,positivo,elogio,Entrega rápida e produto de excelente desempenho.,gemini-3.1-flash-lite
+06f47dacd0575e592bf6a17e922ce6cd,negativo,nao_entregue,"O status consta como entregue, mas o produto não foi recebido.",gemini-3.1-flash-lite
+412b97a51d95e67197ddfcdb74fa8ddb,positivo,elogio,Empresa eficiente e com bom trabalho.,gemini-3.1-flash-lite
+980663608db51f81ab17c9e8f33e912a,negativo,atraso,O prazo de entrega não foi cumprido pelo vendedor.,gemini-3.1-flash-lite
+e34ab45b78e9bb02caeedbc409b44ded,negativo,produto_errado_ou_incompleto,Um dos produtos foi entregue incorretamente.,gemini-3.1-flash-lite
+b8a2743d253ba5187a567d4434c84399,neutro,produto_errado_ou_incompleto,"O motor é bom, mas faltaram peças no envio.",gemini-3.1-flash-lite
+94f2d9e9c7cb8c0db450b76c02e74b3e,negativo,produto_errado_ou_incompleto,"O cliente comprou dois itens, mas recebeu apenas um.",gemini-3.1-flash-lite
+e5c111477e9f344c2d95ff0cb23795bc,positivo,elogio,O produto chegou conforme o solicitado.,gemini-3.1-flash-lite
+9157cc9a91c5d24bcc30ec1b3ffd0bc1,negativo,qualidade_do_produto,Produto pequeno e com vedação de baixa qualidade.,gemini-3.1-flash-lite
+57caabcc51519c9347b7fb637fb91bc5,positivo,elogio,O cliente adorou o recebimento do produto.,gemini-3.1-flash-lite
+65a7488b96370e498245b6610dd8be81,positivo,elogio,Entrega e produto excelentes.,gemini-3.1-flash-lite
+f5cb9419a82ee0794f6d9674aaf362db,positivo,elogio,Entrega rápida e recomendação positiva.,gemini-3.1-flash-lite
+14476bf5c62c7cc73e6193f255295a33,negativo,produto_errado_ou_incompleto,O cliente recebeu apenas um kit de dois comprados.,gemini-3.1-flash-lite
+055ef7374650682b7a4bd157deebb826,negativo,qualidade_do_produto,O cliente não ficou satisfeito com a qualidade do produto.,gemini-3.1-flash-lite
+816951f669ccc0dce90b7ab09fad82ae,neutro,atendimento,"Problema resolvido com estorno, mas a comunicação com o vendedor precisa melhorar.",gemini-3.1-flash-lite
+fcc932b2561f7556fdd38010004a8863,negativo,atraso,O cliente relata um atraso excessivo na entrega.,gemini-3.1-flash-lite
+3c607df73fe8b2d6e6de6576ab8fa52e,positivo,elogio,O produto serviu perfeitamente na moto.,gemini-3.1-flash-lite
+331d73d005693077511baba7df1ceab9,negativo,produto_errado_ou_incompleto,O cliente comprou dois tubos e recebeu apenas um.,gemini-3.1-flash-lite
+5e728b72bbe8e793ad1c12e93a9fe9aa,negativo,atraso,O cliente avaliou a entrega como péssima.,gemini-3.1-flash-lite
+533891d34ab24c6af4776634a4d7a067,positivo,elogio,Tudo ocorreu conforme o esperado.,gemini-3.1-flash-lite
+bed172436b538b5a3fc67c493004f046,negativo,produto_errado_ou_incompleto,Produto entregue divergente do pedido e falta de resposta da loja.,gemini-3.1-flash-lite
+fe34ebb07aa2cf426935423de03df764,positivo,elogio,Entrega rápida e produto bem embalado.,gemini-3.1-flash-lite
+9700a96ca589b42535ce5c9ef9ceca80,positivo,elogio,Produto de boa qualidade e material resistente.,gemini-3.1-flash-lite
+3f33fc1c73c846b33ec42aa3b2299be0,neutro,qualidade_do_produto,"O kit é bonito, mas apresenta fragilidade.",gemini-3.1-flash-lite
+c681b6d369367f65463a20039298d164,positivo,elogio,"Produto ótimo com entrega rápida, apesar do preço elevado.",gemini-3.1-flash-lite
+fe1895a0e38e52adbddd55279b6a13b5,neutro,qualidade_do_produto,Produto razoável com preço baixo que atende a necessidade.,gemini-3.1-flash-lite
+91e70fa7860f519e80c95f33bdfa68e5,positivo,elogio,Serviço eficiente e entrega rápida.,gemini-3.1-flash-lite
+a418884a7b6fd86befbde2244e2a796e,positivo,elogio,Cliente recorrente que recomenda a loja.,gemini-3.1-flash-lite
+1cb6fafc815bcf706cd9adfc2b8d6b3a,negativo,produto_danificado,O produto chegou com defeito na ponta.,gemini-3.1-flash-lite
+5b1920e33c37f7f60e97f32b9ef61401,negativo,produto_errado_ou_incompleto,Recebeu apenas um fone em vez de dois e a cor estava errada.,gemini-3.1-flash-lite
+2cfe964697fd1f32ba26459afeebc653,neutro,atendimento,Problema pontual com a falta de aviso sobre a entrega nos correios.,gemini-3.1-flash-lite
+4ea5e55afb7c70d2e2cead68bab1a39e,positivo,elogio,O MP3 Player é muito bom.,gemini-3.1-flash-lite
+92f26b43b8675127bd78f66456176edb,positivo,elogio,Entrega super rápida e sem problemas.,gemini-3.1-flash-lite
+4b3179bf9a74d5e3e9ff773c9874e302,positivo,elogio,Produto conforme anunciado e entrega rápida.,gemini-3.1-flash-lite
+f6d1a7f2cf94f71f170d29f6d5e3a8fe,positivo,elogio,O cliente elogiou a loja.,gemini-3.1-flash-lite
+6e25aed0cc41aa34f87e0842b28c63dd,negativo,atraso,O produto está atrasado em relação ao prazo habitual.,gemini-3.1-flash-lite
+58e01b6333af5ba559f9f00e10521112,positivo,elogio,Entrega no prazo e produto conforme anunciado.,gemini-3.1-flash-lite
+e1892bec08462af39037dadc0ee18b3d,negativo,atendimento,Dificuldade em realizar a devolução do produto pelo site.,gemini-3.1-flash-lite
+3547ade529a1b5a5e093456476b22c58,negativo,produto_errado_ou_incompleto,Produtos recebidos com defeito e divergentes do pedido.,gemini-3.1-flash-lite
+e85eba22bb39990713de5389752824e3,neutro,atraso,Cliente aguarda explicação sobre o atraso na entrega.,gemini-3.1-flash-lite
+f73853bb3922dae16e875b42f50359c3,neutro,produto_danificado,"Caixa chegou aberta, mas o produto está intacto.",gemini-3.1-flash-lite
+caa501058394d66f78db1c7b1c268e00,neutro,atendimento,Problemas com entregas de parceiros terceirizados.,gemini-3.1-flash-lite
+83963224a4ebff3af10c5f9d094cd3e6,negativo,qualidade_do_produto,O produto não funcionou para a finalidade desejada.,gemini-3.1-flash-lite
+c962f6d122d61d1139814be204618cf1,negativo,qualidade_do_produto,Insatisfação com a origem do produto.,gemini-3.1-flash-lite
+fa6b5066a6a79a2ec28d0237e0964ee3,positivo,elogio,Elogio à rapidez na entrega.,gemini-3.1-flash-lite
+0b6f5cedf58cc9b7866c5592b26fc3a0,positivo,elogio,Entrega rápida e recebimento conforme esperado.,gemini-3.1-flash-lite
+f0926a194cb1020a9db03dcea2965449,positivo,elogio,Entrega realizada antes do prazo.,gemini-3.1-flash-lite
+0ff9d07466b5f03123e48b1af9526bb6,positivo,elogio,Elogio à rapidez e eficiência.,gemini-3.1-flash-lite
+f3dd532fdc3a42a4c9b1446f0601469c,negativo,nao_entregue,O cliente não recebeu o produto.,gemini-3.1-flash-lite
+64727072a529c740125b4961e6e53216,positivo,elogio,Entrega rápida.,gemini-3.1-flash-lite
+1d359fdbfd59b2b846b8114d0853b763,positivo,elogio,Loja confiável com produtos de qualidade.,gemini-3.1-flash-lite
+ecbc75f32c2ede5000085adda4db0c6f,negativo,atraso,Produto não foi enviado à transportadora apesar da NF emitida.,gemini-3.1-flash-lite
+957ccc2ac82a99220319b58fbef4458f,positivo,elogio,Processo de compra e entrega conforme esperado.,gemini-3.1-flash-lite
+a8dd9a92984b072ed0e82024f4cc8e79,positivo,elogio,Recebimento conforme previsto com transparência.,gemini-3.1-flash-lite
+9ea616a99291930e927a7440d212d967,negativo,produto_errado_ou_incompleto,O produto foi entregue na cor errada e o cliente aguarda solução.,gemini-3.1-flash-lite
+baaaeacb86a476ae4db6323bb5b3512c,positivo,elogio,Entrega rápida e satisfação com a compra.,gemini-3.1-flash-lite
+2357b092f106c724dd1586039574e596,negativo,qualidade_do_produto,"O produto parece ser paralelo, divergindo da expectativa de originalidade.",gemini-3.1-flash-lite
+97aecc0794aeae9ee7429662b835ddc3,positivo,elogio,Site fácil de usar e produto entregue conforme esperado.,gemini-3.1-flash-lite
+fc12b82f48a2fb8ed17d7d12b0929dde,negativo,atraso,O cliente esperava pontualidade na entrega.,gemini-3.1-flash-lite
+30338e286de08428aebd0afbc9e7cbb7,positivo,elogio,O produto atendeu exatamente às expectativas.,gemini-3.1-flash-lite
+f8cb8036c5d8c77dfad81f7f86431347,negativo,produto_errado_ou_incompleto,Pedido incompleto e insatisfação com a qualidade do produto.,gemini-3.1-flash-lite
+d5c5e1f1d83b29a144a5ab1154aa47ba,positivo,qualidade_do_produto,"Produto bom, mas com limitação de capacidade.",gemini-3.1-flash-lite
+b8b0488f2349b4682c9af005df0f7cef,negativo,produto_danificado,O produto chegou com arranhões.,gemini-3.1-flash-lite
+b19bbd0b08946f9d1496de4439966254,negativo,nao_entregue,O produto ainda não foi recebido.,gemini-3.1-flash-lite
+f18d85c64e0adf56248fdecb3abaa158,negativo,outro,Desconforto por ter que retirar o produto nos correios.,gemini-3.1-flash-lite
+124417371f543ee236aef75b02bdee6d,negativo,produto_errado_ou_incompleto,Recebimento de um produto totalmente diferente do comprado.,gemini-3.1-flash-lite
+6d73860dfc4a6279a8f4e0fdc8bf3445,negativo,outro,Insatisfação com o frete pago e a falta de entrega domiciliar.,gemini-3.1-flash-lite
+3bd61c844b4564741f533db85cbeddce,negativo,atendimento,Produto não entregue e dificuldade de contato com a loja.,gemini-3.1-flash-lite
+41d1f817a158fe835109e49823d07868,negativo,produto_errado_ou_incompleto,"O pedido veio incompleto, faltando um dos itens do combo.",gemini-3.1-flash-lite
+3d73bb322d552c4279e33cc4a1273258,negativo,atendimento,"Site ruim, sem rastreamento e falha na gestão dos pedidos.",gemini-3.1-flash-lite
+036ea03185f9aa593d9cad1335e1acff,neutro,outro,"Produto ainda não utilizado, mas com expectativa positiva.",gemini-3.1-flash-lite
+e1aca7f372524aba2e4c0a17488dfbc4,positivo,elogio,Entrega rápida e produto original.,gemini-3.1-flash-lite
+73803deb5437f6466f16943a54ca89e6,negativo,nao_entregue,"Suporte entregue, mas a TV ainda não chegou.",gemini-3.1-flash-lite
+11b54d6b032c22b3219b4c3030795d95,negativo,produto_danificado,O produto apresenta defeito.,gemini-3.1-flash-lite
+c9f345723b16bba74d67ccba383f08b2,negativo,produto_errado_ou_incompleto,Produto enviado com cor diferente e qualidade inferior ao anunciado.,gemini-3.1-flash-lite
+5d09d4c6ed0be9f1d2db1b2a0d674b57,positivo,elogio,Produto recebido corretamente e dentro do esperado.,gemini-3.1-flash-lite
+d4553d96055a0b508e3b0af45738981e,neutro,atraso,"Produto bem embalado, mas houve atraso na entrega devido à greve.",gemini-3.1-flash-lite
+446eb3c87dfb451fedd07c48c02b0ba9,positivo,elogio,Entrega rápida antes do prazo.,gemini-3.1-flash-lite
+40962dfb4a3f2fd452f20f5fb1e91b11,negativo,produto_errado_ou_incompleto,Pedido de dois perfumes entregue com apenas um item.,gemini-3.1-flash-lite
+01719ac43943892aee0c317c421fc7aa,negativo,produto_errado_ou_incompleto,"Recebido apenas um toner de dois comprados, solicitando reembolso.",gemini-3.1-flash-lite
+40d9d874d1d6fc2ade057e386effb7d9,positivo,elogio,Aparelho ótimo e entrega antecipada.,gemini-3.1-flash-lite
+48238badca7cbae75ca051ac7be2e9e5,positivo,elogio,Entrega realizada de forma muito rápida.,gemini-3.1-flash-lite
+b62a27d179b00d216c76e7933363251e,negativo,atendimento,Falta de um item no pedido e ausência de resposta do vendedor.,gemini-3.1-flash-lite
+f98067ba1228b379855c527958e2710f,negativo,produto_errado_ou_incompleto,Recebida apenas uma cortina de duas compradas.,gemini-3.1-flash-lite
+13475ae7df58bea76571b7f1b99d8c84,negativo,qualidade_do_produto,Driver do produto desatualizado e incompatível com sistemas modernos.,gemini-3.1-flash-lite
+60bd11b053d9d50353068720a020531c,positivo,elogio,Atendimento e envio recomendados.,gemini-3.1-flash-lite
+c5a815f89971cd69e828bc8c2d992524,negativo,atraso,Demora excessiva na entrega do produto.,gemini-3.1-flash-lite
+0a717531c6b3c376bf358798366cf062,neutro,atraso,"Produto excelente, porém com atraso na entrega.",gemini-3.1-flash-lite
+e7aec735e1e0a9d0cd7c09e710f6273c,positivo,elogio,Entrega rápida e produto de qualidade.,gemini-3.1-flash-lite
+a4013d060bf08da0df541a5e45c61bf4,negativo,atraso,Prazo de entrega inicial não foi cumprido.,gemini-3.1-flash-lite
+f4d8d18b95d1901fc319946c4b93acac,negativo,atraso,Produto ainda não recebido após longo período de espera.,gemini-3.1-flash-lite
+20f459086dcb43e9f68fd3ae36783063,positivo,elogio,Produto conforme anunciado e entrega antecipada.,gemini-3.1-flash-lite
+04891b9390ac562c54be0ecbf10341a1,neutro,atendimento,"Produto bom, mas insatisfação com a escolha da transportadora.",gemini-3.1-flash-lite
+c7cf13e8aacf00e7953120160ad7ddcb,negativo,nao_entregue,Produto ainda não foi entregue.,gemini-3.1-flash-lite
+19ed22e75cda5c3a833c906af9459f0c,negativo,produto_errado_ou_incompleto,"O produto não foi enviado, apenas a nota fiscal.",gemini-3.1-flash-lite
+3535b4c234e15d2dd561f13f54bd75ef,negativo,produto_errado_ou_incompleto,O cliente recebeu o dobro da quantidade solicitada.,gemini-3.1-flash-lite
+046c69b6e9d13400b71ff43532823027,negativo,outro,O cliente reclama do incômodo com as solicitações de avaliação.,gemini-3.1-flash-lite
+a99dfeeadcc9b9cfb95550a5ec0ae2d8,negativo,atraso,O produto não foi entregue após o prazo estipulado.,gemini-3.1-flash-lite
+44d1d9df4e2a4a9245b064bf6bd90ea8,negativo,atendimento,Problemas com a logística de entrega e cancelamento indevido do pedido.,gemini-3.1-flash-lite
+b8024cabec0601e21c93df35acb9e1a9,negativo,nao_entregue,O produto não foi entregue e o cliente pretende acionar a justiça.,gemini-3.1-flash-lite
+c3c7da0ff90c07be333fe41ef8e8357e,neutro,produto_danificado,"Entrega no prazo, mas o produto chegou avariado.",gemini-3.1-flash-lite
+038339114df5e73f83b053bc5a11485e,positivo,elogio,Produto de qualidade entregue antes do prazo.,gemini-3.1-flash-lite
+aad4fe10234f66b2c3711acedeb8e4d9,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+6891009489ffcf77551f3582e35dbeb7,positivo,elogio,A loja cumpre o que promete.,gemini-3.1-flash-lite
+60d93f43741dceb0e645a3838d1907d4,negativo,nao_entregue,Atraso excessivo na entrega e insatisfação com o atendimento.,gemini-3.1-flash-lite
+f6fca8689e8d3a758dce6f2a5f08db96,positivo,elogio,Produto recebido antes do prazo.,gemini-3.1-flash-lite
+35a290e5d4e0d1fe96e6a627e9edd3d1,neutro,produto_danificado,"Produto correto, mas a embalagem chegou danificada.",gemini-3.1-flash-lite
+1dda6bf569b2095eeb58d5ce8880d85a,neutro,atraso,"As entregas são demoradas, mas o produto chega correto.",gemini-3.1-flash-lite
+e7e083684e36e759cf2ebf79ec889ae6,neutro,outro,"Entrega rápida, mas o produto não atendeu à expectativa de compatibilidade.",gemini-3.1-flash-lite
+80fc6cb06344440d0131e3e84902e0f9,negativo,produto_errado_ou_incompleto,O produto enviado não corresponde aos sabores escolhidos.,gemini-3.1-flash-lite
+fb6468c0b5ac28b46132dd01cd1d8e7f,positivo,elogio,"Produto excelente, apesar de exigir uso específico.",gemini-3.1-flash-lite
+6a1c5a014210a86c4c75561590334d6b,negativo,atendimento,Compra cancelada por falta de estoque após a venda.,gemini-3.1-flash-lite
+83c0bf970a71076d120ded9329a7b056,negativo,atendimento,Problemas com estoque e dificuldade para obter reembolso.,gemini-3.1-flash-lite
+faf9562f00cc9e7c091b667170e215fb,negativo,atendimento,Dificuldade de comunicação com o vendedor.,gemini-3.1-flash-lite
+278a8e511b5be7848071f47011c52c9b,negativo,atendimento,Cliente insatisfeito por ter que retirar o produto nos Correios.,gemini-3.1-flash-lite
+b6ec667265d4f76bba5d69f4966dcd55,positivo,elogio,Produto excelente e entregue no prazo.,gemini-3.1-flash-lite
+f1f9860e77fbdbd7cfcfd9a94e0cf2ef,negativo,atendimento,Atendimento ruim e atraso excessivo na entrega.,gemini-3.1-flash-lite
+122e7902a99e4a64071f4bccde1c33fe,positivo,elogio,Produto entregue na data combinada.,gemini-3.1-flash-lite
+1a8cdc13ae2e9e631595617f4a91b3a3,positivo,elogio,Entrega antecipada e produto em perfeitas condições.,gemini-3.1-flash-lite
+6b15b6cdfdc1070ddbe822ee5b6f3ba8,negativo,produto_errado_ou_incompleto,Produto enviado com cor errada e qualidade inferior à esperada.,gemini-3.1-flash-lite
+310a8cff23b1b786fe266d1b350b91a2,negativo,produto_errado_ou_incompleto,Produto incompleto faltando peças e manual inadequado.,gemini-3.1-flash-lite
+96140de7242d61a282720c139251d34b,negativo,produto_errado_ou_incompleto,Pedido incompleto e falta de informações de rastreio.,gemini-3.1-flash-lite
+cc938526ed131efccd9cfb84d0a31f5a,negativo,produto_errado_ou_incompleto,Foi enviado um produto de marca diferente da comprada.,gemini-3.1-flash-lite
+58ef9fe64668d3e4d92412d031267f93,negativo,produto_errado_ou_incompleto,Produto entregue sem nota fiscal e manual.,gemini-3.1-flash-lite
+304f17ecd4c1ba226773002520222e40,positivo,elogio,Tudo certo com a compra.,gemini-3.1-flash-lite
+b5808dec10427a8a43c4ded6036a8413,positivo,elogio,Produto de qualidade e preço acessível.,gemini-3.1-flash-lite
+bcfe6358fe9450d0d20fffcd8c1d591f,positivo,elogio,Entrega rápida e produto conforme esperado.,gemini-3.1-flash-lite
+39e4240eebf5e8d46b13b7596365c85f,positivo,elogio,Cliente satisfeito com o produto e a loja.,gemini-3.1-flash-lite
+2ee2c5714477ed70909ce02b1590e53b,negativo,atendimento,Solicitação urgente de reembolso.,gemini-3.1-flash-lite
+254338acd230ec8cb68022cdd46a6090,positivo,elogio,Produto bom e entrega rápida.,gemini-3.1-flash-lite
+d509849c6a17a9e9e00e2e8f86bc3fe7,positivo,elogio,Tudo conforme o combinado.,gemini-3.1-flash-lite
+da0dc17903d0f8aa4b041dcd7f2dacff,positivo,elogio,Entrega rápida e qualidade surpreendente.,gemini-3.1-flash-lite
+efae336c4fe5edbbb83bfa018b2715c8,neutro,atraso,"Produto bom, mas frete caro e demorado.",gemini-3.1-flash-lite
+4b694abb31e64a3fdc7dc42f6385bd23,negativo,atraso,Houve atraso na entrega do produto.,gemini-3.1-flash-lite
+9d62041f4ef5fe84c3974c07f272ea50,negativo,produto_errado_ou_incompleto,"O produto chegou incompleto, faltando itens.",gemini-3.1-flash-lite
+b35041292c711e10c0589a676b4c88d6,negativo,atraso,O produto foi entregue com atraso.,gemini-3.1-flash-lite
+3d39be3ac5b9a1b5226f3d1a228f8a02,positivo,elogio,Entrega muito rápida e produto de excelente qualidade.,gemini-3.1-flash-lite
+0f03554f547219bdd76e1886c6f93014,negativo,qualidade_do_produto,O produto apresenta baixa qualidade.,gemini-3.1-flash-lite
+3f8e62f5fcd9ed4512764af3c7d1c081,positivo,elogio,Compra recomendada.,gemini-3.1-flash-lite
+82be3da55465656fe33212ee9c6d4455,positivo,elogio,O produto é uma réplica perfeita.,gemini-3.1-flash-lite
+216e0afb201d3cc800d594a6d143f99b,negativo,atraso,"A entrega foi demorada, apesar do pedido estar correto.",gemini-3.1-flash-lite
+cc6827a5d93f86dcc77479821e1a4e8b,positivo,elogio,Compra realizada com sucesso.,gemini-3.1-flash-lite
+37206734968d19363addecb878b50f46,negativo,produto_danificado,O produto chegou com defeito no botão de desligar.,gemini-3.1-flash-lite
+e4b02fdcd67af08618a36da2d07f1488,negativo,atraso,A entrega demorou muito.,gemini-3.1-flash-lite
+7d12ce7f6e649552eaa919aa33106b31,negativo,produto_errado_ou_incompleto,"O pedido veio incompleto, faltando itens.",gemini-3.1-flash-lite
+3c4f318ced3ffebde5b579e389bef14c,negativo,nao_entregue,O produto ainda não foi entregue.,gemini-3.1-flash-lite
+6b94c4fa2b44775c175116d45c5c867d,negativo,qualidade_do_produto,O acabamento do produto é ruim e o cliente deseja trocar.,gemini-3.1-flash-lite
+0ea35bac39e87cf91b577989bd200fde,positivo,elogio,Produto bom e vendedor prestativo.,gemini-3.1-flash-lite
+0a7a21ecaa58c88d57b808539634a444,negativo,produto_errado_ou_incompleto,O produto chegou faltando peças.,gemini-3.1-flash-lite
+57a380cbbadd42729deb1aa0d5272c60,positivo,elogio,O produto atendeu às expectativas.,gemini-3.1-flash-lite
+eaeba786262a9bc3a2bcb4670d1c6121,negativo,produto_errado_ou_incompleto,O produto veio na cor errada.,gemini-3.1-flash-lite
+612201a213fb01d4f977e5711837356b,negativo,qualidade_do_produto,O cliente não gostou das fragrâncias.,gemini-3.1-flash-lite
+f0367cf621124de94f91dec98d50a99a,negativo,nao_entregue,O produto ainda não foi recebido.,gemini-3.1-flash-lite
+690ea9f9a65c531d955b124083a3a6a5,neutro,outro,O cliente apenas informou o prazo de entrega.,gemini-3.1-flash-lite
+a3934ff1ab12574ab07f5eb5fbd38c78,negativo,nao_entregue,O cliente relata que o pedido não foi entregue.,gemini-3.1-flash-lite
+f6d94b7e00aed4d46f268220cd95ef1b,positivo,elogio,Entrega pontual e produto com bom custo-benefício.,gemini-3.1-flash-lite
+ce395cbdd6275475bcf21c1923430eb5,positivo,elogio,O cliente ficou satisfeito com o produto adquirido.,gemini-3.1-flash-lite
+79b9a335a89e27125cd81cc4c56a4f88,negativo,produto_danificado,O toner recebido apresenta defeito de impressão.,gemini-3.1-flash-lite
+9c2f338940dbb8c378e40bb25633e7cd,positivo,elogio,Entrega rápida e produto de boa qualidade.,gemini-3.1-flash-lite
+c99bd47a251c0fef5b5933b293acea03,negativo,nao_entregue,Atraso excessivo na entrega e falta de suporte da loja.,gemini-3.1-flash-lite
+7ac9c2640e377b0ba0b0b054396e2bac,negativo,produto_errado_ou_incompleto,O pedido foi entregue com itens faltando.,gemini-3.1-flash-lite
+c1f62fa9b0edd8a4034be74ee30304e2,negativo,produto_errado_ou_incompleto,O cliente alega ter recebido um produto falsificado.,gemini-3.1-flash-lite
+7e554d44ca556d61ba86d9deab6482c2,neutro,outro,Sugestão de melhoria nas opções de frete.,gemini-3.1-flash-lite
+04197728b07971ad419b9d03265a807c,positivo,elogio,Entrega e produto excelentes.,gemini-3.1-flash-lite
+5b6ee9214b1327fe90cc4b0336cd0d58,neutro,qualidade_do_produto,"Entrega rápida, mas o fone de ouvido possui baixa qualidade.",gemini-3.1-flash-lite
+3cfcd38fdb9e6f5ff1d6b820eabd236f,negativo,nao_entregue,O produto não foi entregue ao cliente.,gemini-3.1-flash-lite
+6aba6ff5d6b3f6762a2ad9a9f1fbdfcf,positivo,elogio,Processo de compra rápido e eficiente.,gemini-3.1-flash-lite
+7c7e8d4062ab346ea0bdbf9f42c05268,positivo,elogio,Produto bonito e recomendado.,gemini-3.1-flash-lite
+4ac7349273ab72bb604cb453eaf4ee65,negativo,nao_entregue,Pedido não entregue e falta de comunicação da loja.,gemini-3.1-flash-lite
+bcc4475015b5ddbc06d6f8e4b58a7bb0,positivo,elogio,"Cliente satisfeita, apesar da entrega separada dos produtos.",gemini-3.1-flash-lite
+cc91bef7d699f0403d1a55c111671faa,negativo,produto_errado_ou_incompleto,O pedido chegou com uma unidade a menos do que o comprado.,gemini-3.1-flash-lite
+c0768e26a52bd7869ab941e5bfef9a14,positivo,elogio,Entrega antecipada e satisfação com o produto.,gemini-3.1-flash-lite
+987016354841e54f7eb08a6cff44ad68,negativo,produto_errado_ou_incompleto,O cliente recebeu produtos iguais em vez das cores diferentes solicitadas.,gemini-3.1-flash-lite
+3ff478f20c4f3439f79cc14180573ae8,positivo,elogio,Elogio à rapidez da entrega.,gemini-3.1-flash-lite
+0b230254983499bbe24dd28d09cbf955,neutro,qualidade_do_produto,"Bolsas bonitas, mas com costura que parece pouco resistente.",gemini-3.1-flash-lite
+79451c21781167f983f7aac7042e3adb,positivo,elogio,Produto condizente com o preço pago.,gemini-3.1-flash-lite
+44f461e28bc1f11cf2a298e9411a151d,positivo,elogio,Bom atendimento durante as compras.,gemini-3.1-flash-lite
+915ffc387c38352abf67372fa1db8a4b,negativo,atendimento,Produto errado recebido e falta de retorno da loja sobre a troca.,gemini-3.1-flash-lite
+d3f4852ef65b1b4c8b91778ec9784326,positivo,elogio,"Entrega rápida, apesar da embalagem ter chegado com avarias.",gemini-3.1-flash-lite
+00e9a7dc84b290f5db012a8a554f8186,positivo,elogio,Entrega realizada antes do prazo.,gemini-3.1-flash-lite
+dd5d5b718dc3d8aae7ab848e2d52379f,negativo,nao_entregue,Produto ainda não entregue pela transportadora.,gemini-3.1-flash-lite
+8ec042451b89064557a26251a05b9549,positivo,elogio,Produto conforme esperado e satisfatório.,gemini-3.1-flash-lite
+9c7120567726b42ab3aeffe72d4f86fa,positivo,elogio,Produto atendeu às expectativas.,gemini-3.1-flash-lite
+092ac2566004c3fe0909bf62e74de0aa,positivo,elogio,Produto bem embalado e cliente satisfeito.,gemini-3.1-flash-lite
+f185293a826a87acdcd55d361877023d,neutro,qualidade_do_produto,"Produto fino, mas de boa qualidade.",gemini-3.1-flash-lite
+cb6217f52c2b969414e1366c8d01e289,negativo,produto_errado_ou_incompleto,Pedido incompleto e falta de retorno da loja sobre o item faltante.,gemini-3.1-flash-lite
+75cfce1f99f55b05db43069c25752652,neutro,qualidade_do_produto,"Sugestão para melhorar as fotos do produto, pois o recebido parece diferente.",gemini-3.1-flash-lite
+0fb2710f4a965ab8f201ba409729e82f,negativo,nao_entregue,Produto não entregue e prazos extrapolados.,gemini-3.1-flash-lite
+cd4bf82b3756772a7d67c77ad196071b,positivo,elogio,Entrega rápida.,gemini-3.1-flash-lite
+6c356558211aa36fd9cac0e35794f375,negativo,produto_errado_ou_incompleto,Produto entregue em cor diferente da esperada.,gemini-3.1-flash-lite
+4a506d2ca784f5e8e32276f15c265136,positivo,elogio,Produto de boa qualidade.,gemini-3.1-flash-lite
+3b00b01fa7885c0fa503aa53af1b6954,negativo,atraso,Entrega realizada com atraso.,gemini-3.1-flash-lite
+9690eff7b6aa6dde3bcfa94dd4d62fbc,positivo,elogio,Entrega antes do prazo e cliente satisfeito.,gemini-3.1-flash-lite
+df6c29df5ddd4dee73f86f0251306c87,negativo,atraso,"Atraso na entrega, alteração de prazo e produto diferente do esperado.",gemini-3.1-flash-lite
+5657f8f8f0d3c0ef4b541696c24245ff,negativo,qualidade_do_produto,Produto com qualidade inferior e entrega demorada.,gemini-3.1-flash-lite
+2e18a0b9ee50e031a5564fd4e3223c37,negativo,atendimento,Dificuldade na troca de um produto enviado incorretamente.,gemini-3.1-flash-lite
+15146753aa08347fd14b65a9aebf8284,negativo,produto_errado_ou_incompleto,"Pedido incompleto, faltando o carrinho de bebê.",gemini-3.1-flash-lite
+eaf3d12d2fda1c62872f0924fdcf7611,neutro,qualidade_do_produto,"O produto é bom, mas não condiz exatamente com a descrição.",gemini-3.1-flash-lite
+f36417fa8dba0747ae9d439e599f5b47,positivo,elogio,Entrega no prazo e produto conforme esperado.,gemini-3.1-flash-lite
+3861f94f3bbfe2b2db4553eba0944632,negativo,qualidade_do_produto,Problema no funcionamento das espátulas da panela.,gemini-3.1-flash-lite
+6ea9c8549545c1131ebe64fd85ba23f6,negativo,atendimento,Loja cancelou o pedido após a venda ser realizada.,gemini-3.1-flash-lite
+a872da2d54961fb80a1192cc347f270e,neutro,produto_danificado,"Entrega rápida, mas a frigideira chegou amassada.",gemini-3.1-flash-lite
+086ad7abbcdbc9ae50ca73e7a3a0379a,positivo,elogio,Excelente prazo de entrega e satisfação com o produto.,gemini-3.1-flash-lite
+3001689d9a6ef685282eefadcf01cf5b,negativo,produto_danificado,O produto recebido apresenta defeito.,gemini-3.1-flash-lite
+6a786a508b5ecc7291a734f6b6e84452,neutro,produto_danificado,"Entrega no prazo, porém o produto veio arranhado.",gemini-3.1-flash-lite
+39b5f3e0cb05176ccd1809ffa3f18659,positivo,elogio,Entrega antecipada e produto em perfeitas condições.,gemini-3.1-flash-lite
+4b07641247cef2cd02855fbf86772694,negativo,produto_errado_ou_incompleto,"Pedido incompleto, faltando um dos itens.",gemini-3.1-flash-lite
+1ae224ec63bec596dd5b279c0eb4f0ef,positivo,elogio,Entrega rápida e produto de boa qualidade.,gemini-3.1-flash-lite
+8ef67c8b45b1275815b34e5e12b5b3cd,neutro,atendimento,Desconforto com o processo de entrega da nota fiscal e produto.,gemini-3.1-flash-lite
+0f2cfa19a4bb553cc1f97f243409def5,neutro,atraso,"Produto ótimo, mas a entrega demorou.",gemini-3.1-flash-lite
+d0014763f94fdab2bd14a0b09277da10,positivo,elogio,Produto muito bonito e satisfatório.,gemini-3.1-flash-lite
+c787d855e81a3e6269c69b29f82e110c,negativo,nao_entregue,Problemas com atraso na entrega de compras recentes.,gemini-3.1-flash-lite
+fcaccf956b3b8b0b7f30b13712ed6037,positivo,elogio,Mochila com bom visual e funcionalidade.,gemini-3.1-flash-lite
+69957e955195522e448911e89cae286f,negativo,qualidade_do_produto,Toalhas com espessura abaixo da esperada.,gemini-3.1-flash-lite
+adf2a2c1dadacb2ff9fd638f50f73b46,negativo,produto_errado_ou_incompleto,"O pedido veio incompleto, faltando um dos itens comprados.",gemini-3.1-flash-lite
+d54fba66ce0ba0004bcdf58476d5f51b,negativo,nao_entregue,O cliente relata que o produto não foi entregue.,gemini-3.1-flash-lite
+36828d9fe62befdb608fceaf5102f0f5,positivo,elogio,Preço bom e entrega eficiente.,gemini-3.1-flash-lite
+8c8cff35fdbd3c3562e68491d69cda29,negativo,atendimento,Dificuldade em obter resposta para cancelamento do pedido.,gemini-3.1-flash-lite
+4c33a777b4df81e5b804194db85d6518,neutro,produto_errado_ou_incompleto,A cor do produto recebido é diferente da esperada.,gemini-3.1-flash-lite
+ef4cfe6bd52dc03ebdb853f84b058d23,negativo,nao_entregue,O produto ainda não foi entregue e o cliente aguarda um posicionamento.,gemini-3.1-flash-lite
+d7319683190f7e136e9900018abef8b8,positivo,elogio,Produto de qualidade entregue antes do prazo.,gemini-3.1-flash-lite
+95b5b939dfa22fc9bb6f450f09aa1ede,negativo,atendimento,Dificuldade de contato e rastreamento após cancelamento da compra.,gemini-3.1-flash-lite
+cc99260255d769a842b188df75283fe5,neutro,qualidade_do_produto,Dúvida sobre a originalidade dos cartuchos devido ao alerta da impressora.,gemini-3.1-flash-lite
+8bc368acf5fe99b8b885519671fe59bc,positivo,elogio,Entrega rápida e produto excelente.,gemini-3.1-flash-lite
+680315f6d5a87d16494491d8fe0b72d0,negativo,atraso,O produto está com atraso superior a 22 dias.,gemini-3.1-flash-lite
+e141ad15361f70095fda499096a56ffc,positivo,elogio,Cliente satisfeito com a experiência de compra online.,gemini-3.1-flash-lite
+65a471f9ac598b9017a9d11aa212596c,negativo,produto_errado_ou_incompleto,Recebimento de apenas uma unidade de um pedido de três.,gemini-3.1-flash-lite
+5ef92067b11aa8f999ace9e9edcda377,negativo,produto_errado_ou_incompleto,"Pedido incompleto, faltando um dos itens comprados.",gemini-3.1-flash-lite
+81d4baca56f85bc4312f0a9767c8df26,negativo,produto_errado_ou_incompleto,Recebimento de produto com tamanho incorreto.,gemini-3.1-flash-lite
+a2f7c0a48ecfdcf5662ac767ca9529fb,negativo,nao_entregue,Produto não entregue após um mês e sem rastreamento.,gemini-3.1-flash-lite
+5098e103d7042d2f4856b8a375451d83,positivo,elogio,Produto com bom custo-benefício.,gemini-3.1-flash-lite
+d90392ba5cd440cc8ef964fb17d29c71,positivo,elogio,Entrega no prazo e produto correto.,gemini-3.1-flash-lite
+c3a5ec0391eb3f68ea069178b44ce4cf,positivo,elogio,Avaliação positiva sobre a experiência de compra.,gemini-3.1-flash-lite
+734fd44778c4bb74f5072a9aa9495c3b,negativo,qualidade_do_produto,O produto recebido não condiz com as especificações do anúncio.,gemini-3.1-flash-lite
